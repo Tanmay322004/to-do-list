@@ -25,4 +25,4 @@ This project demonstrates the Model-View-Controller (MVC) pattern in a small Jav
 
 1. Clone the repository
    ```bash
-   git clonehttps://github.com/Tanmay322004/to-do-list
+   https://github.com/Tanmay322004/to-do-list.git
